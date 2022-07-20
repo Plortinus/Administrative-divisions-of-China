@@ -1,8 +1,8 @@
 # Administrative-divisions-of-China
 
 [![code style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![npm](https://img.shields.io/npm/v/china-division.svg)](https://www.npmjs.com/package/china-division)
-[![downloads](https://img.shields.io/npm/dt/china-division.svg)](https://www.npmjs.com/package/china-division)
+[![npm](https://img.shields.io/npm/v/element-china-division.svg)](https://www.npmjs.com/package/element-china-division)
+[![downloads](https://img.shields.io/npm/dt/element-china-division.svg)](https://www.npmjs.com/package/element-china-division)
 [![license](https://img.shields.io/badge/license-WTFPL%20--%20Do%20What%20the%20Fuck%20You%20Want%20to%20Public%20License-green.svg)](https://raw.githubusercontent.com/modood/Administrative-divisions-of-China/master/LICENSE)
 
 中华人民共和国行政区划（五级）：省级、地级、县级、乡级和村级。
